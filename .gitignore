@@ -1,6 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+/.ipynb_checkpoints
+.ipynb_checkpoints
 /node_modules
 /.pnp
 .pnp.js
@@ -12,7 +14,6 @@
 /build
 
 # misc
-.ipynb_checkpoints
 .DS_Store
 .env.local
 .env.development.local
